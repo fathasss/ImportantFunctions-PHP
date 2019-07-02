@@ -1,0 +1,2 @@
+# functions
+Gerekli PHP fonksiyonları
