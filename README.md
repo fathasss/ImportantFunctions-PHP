@@ -1,2 +1,5 @@
-# functions
-Gerekli PHP fonksiyonları
+# ImportantFunctions
+
+Önemli PHP fonksiyonları
+
+SEO fonksiyonları
